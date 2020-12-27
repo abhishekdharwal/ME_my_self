@@ -1,1 +1,58 @@
+body {
+  margin: auto;
+  text-align: center;
+}
 
+.top {
+  background-color: #ffe6e6;
+}
+
+.profile {
+  font-family:'Open Sans', sans-serif;
+}
+
+h1 {
+  position: relative;
+  top: 50px;
+  margin-top: 0;
+  padding-top: 100px;
+  border: 20px;
+  margin-bottom: 0;
+  font-family: 'Shadows Into Light', cursive;
+  /*  font-family: 'Montserrat', sans-serif;*/
+}
+.flower{
+  height: 250px;
+  width: 250px;
+  border-radius: 250%;
+}
+
+
+
+.dot {
+  height: 8px;
+  background-color: #ffabe1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.cloud-1 {
+  position: absolute;
+  padding-top: 10px;
+}
+
+.cloud-2 {
+  position: absolute;
+  top: 50px;
+  padding-top: 30px;
+  display: inline-block;
+}
+
+.cloud-3 {
+  position: relative;
+  left: 300px;
+}
+
+.mountain {
+  max-width: 100%;
+}
