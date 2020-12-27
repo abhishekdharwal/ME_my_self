@@ -1,2 +1,2 @@
 # ME_my_sel
-This is place where see myself doing something😂
+This is place where I see myself doing something😂
